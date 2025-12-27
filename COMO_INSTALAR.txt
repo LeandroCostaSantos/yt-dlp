@@ -1,0 +1,104 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         YT-DLP GUI - COMO INSTALAR                           ║
+║                           Baixador de Vídeos                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Olá! Este é um programa para baixar vídeos do YouTube (e outros sites)
+de forma fácil, sem precisar usar linha de comando.
+
+Siga os passos abaixo:
+
+================================================================================
+PASSO 1: INSTALAR O PYTHON
+================================================================================
+
+1. Abra o navegador e acesse: https://www.python.org/downloads/
+
+2. Clique no botão amarelo "Download Python 3.x.x"
+
+3. Execute o arquivo baixado (python-3.x.x.exe)
+
+4. ⚠️  MUITO IMPORTANTE ⚠️
+   Na primeira tela do instalador, MARQUE a opção:
+
+   [✓] "Add Python to PATH"  (ou "Add python.exe to PATH")
+
+   Essa opção fica NA PARTE DE BAIXO da tela!
+
+5. Clique em "Install Now" e aguarde a instalação terminar
+
+6. Clique em "Close" quando terminar
+
+
+================================================================================
+PASSO 2: EXECUTAR O PROGRAMA
+================================================================================
+
+1. Abra a pasta onde está este arquivo
+
+2. Dê DUPLO CLIQUE no arquivo:
+
+   📄 Iniciar_YT-DLP_GUI.bat
+
+3. Uma janela preta vai aparecer instalando o necessário automaticamente
+
+4. Aguarde alguns segundos e o programa vai abrir!
+
+
+================================================================================
+COMO USAR O PROGRAMA
+================================================================================
+
+1. Cole a URL do vídeo do YouTube no campo de texto
+
+2. Clique em "Analisar"
+
+3. Escolha a qualidade do vídeo (1080p, 720p, etc.)
+
+4. Escolha se quer baixar como vídeo ou só o áudio (MP3)
+
+5. Clique em "Procurar..." para escolher onde salvar
+
+6. Clique em "Baixar"
+
+7. Aguarde o download terminar!
+
+
+================================================================================
+PROBLEMAS COMUNS
+================================================================================
+
+❌ "Python não foi encontrado"
+   → Você precisa instalar o Python (Passo 1)
+   → Certifique-se de marcar "Add Python to PATH" na instalação
+
+❌ O programa não abre
+   → Clique com botão DIREITO no arquivo .bat
+   → Selecione "Executar como administrador"
+
+❌ Erro ao baixar vídeo
+   → Verifique sua conexão com a internet
+   → Alguns vídeos podem estar bloqueados ou privados
+
+❌ Vídeo baixa sem áudio (ou vice-versa)
+   → Você precisa do FFmpeg instalado para combinar vídeo+áudio
+   → Baixe em: https://ffmpeg.org/download.html
+   → Ou use a opção "Melhor disponível" na qualidade
+
+
+================================================================================
+DICAS
+================================================================================
+
+• Para baixar só o áudio (música), selecione "Apenas Áudio" e formato MP3
+
+• Para baixar playlist inteira, cole o link da playlist e selecione os vídeos
+
+• As configurações são salvas automaticamente para a próxima vez
+
+• Se um vídeo estiver bloqueado no Brasil, ative "Geo-bypass" nas opções
+
+
+================================================================================
+                              UI by CostaDEV
+================================================================================
